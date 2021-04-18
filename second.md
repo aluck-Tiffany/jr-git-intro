@@ -1,6 +1,6 @@
 Aa
 Bb
-c
+collide
 d
 e
 f
